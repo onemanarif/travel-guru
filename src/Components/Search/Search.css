@@ -1,0 +1,16 @@
+.room_wrapper{
+    margin-top: 50px;
+    background: rgba(255, 255, 255, 0.144);
+}
+.roomStyle{
+    margin: 15px 0;
+    color: #000;
+}
+.room_info{
+    margin-left: 10px;
+}
+.search{
+    background: rgba(167, 208, 218, 0.685);
+    padding: 20px;
+    border-radius: 10px;
+}

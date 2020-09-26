@@ -1,0 +1,57 @@
+.formStyle{
+    padding: 20px;
+    width: 570px;
+    height: auto;
+    background: rgba(167, 208, 218, 0.685);
+    box-sizing: border-box;
+    border-radius: 4px;
+    text-align: left;
+}.forgetPassword{
+    color:tomato;
+    font-size: 16px;
+}
+.btnStyle{
+    padding: 14px 210px;
+    width: 480px;
+    height: 50px;
+    margin:5px 20px 5px 20px;
+   
+
+}
+.fbBtn{
+    width: 480px;
+    height: 40px;
+    background: rgba(156, 226, 243, 0.685);
+    border: 1px solid #C7C7C7;
+    box-sizing: border-box;
+    border-radius: 57px;
+    margin:5px 20px 5px 25px;
+    text-align: center;
+}
+.from-style{
+    width: 100%;
+    
+}
+.formStyle{
+    margin: 0 auto;
+}
+.fbGoogleStyle{
+
+    margin: 0 auto;
+}
+.logInText{
+   
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    margin-top:30px;
+    margin-left: 40px;
+
+}
+
+.inputText{
+    margin-top: 5px;
+    width:100%;
+    height: 35px;
+    
+}

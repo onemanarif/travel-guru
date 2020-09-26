@@ -1,0 +1,39 @@
+.BookingForm{
+    width: 400px;
+    height: 400px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    padding: 20px;
+}
+.formInput{
+    background: #b2f188;
+    border-radius: 5px;
+}
+label{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #818181;
+    margin: 10px;
+}
+.formInput::placeholder{
+    font-weight: 700;
+    color: black;
+}
+.formDate::placeholder{
+    font-weight: 400;
+    color: black;
+    padding:0 10px;
+}
+.bookingbtnStyle{
+    padding: 15px 50px;
+    width: 355px;
+    height: 60px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+.bannerLeft{
+   
+    color: #FFFFFF;
+}

@@ -1,0 +1,48 @@
+.cardImg img{
+    width: 230px;
+    margin: 50px 0px 0px 15px;
+    padding: 3px;
+    position: relative;
+    
+}
+.bannerLeft{
+    margin-left: 30px;
+    margin-top: 100px;
+    color: #FFFFFF;
+}
+.bannerLeft h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.bannerLeft p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: justify;
+    margin: 20px 0;
+}
+.banner-text{
+    position: absolute;
+    top: 80%;
+    margin-left: 30px;
+    color: #fff;
+}
+.cardStyle{
+    border-radius: 20px;
+}
+.cardImgStyle{
+    position: relative;
+    height: 350px;
+    width: auto;
+    padding: 3px;
+    background-color: rgb(241, 157, 20);
+    border-radius: 10px;
+}
+.cardTextStyle{
+    position: absolute;
+    top: 75%;
+    text-align: left;
+    font-size: 25px;
+    color: rgb(242, 246, 248);
+}
